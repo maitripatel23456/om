@@ -1,0 +1,9 @@
+﻿FULL FORMS
+
+
+1. STM     Synchronous Transport Module
+2. IDS       Intrusion detection system
+3. IPS        Intrusion prevention system
+4. WAN    Wide area network
+5. PAN      Personal area network
+6. CAN     Campus area network
